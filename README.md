@@ -6,8 +6,6 @@ Created on Wed Jan  9 10:41:46 2019
 @author: benjaminwasserman
 """
 
-Ben Wasserman and Ryan Turley
-CPSC 393
-Linstead
+Ben Wasserman
 Jan. 9, 2019
-First Order Markov Model# first_order_markov
+First Order Markov Model
